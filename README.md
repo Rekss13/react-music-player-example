@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-https://github.com/lijinke666/react-music-player
+This is a demo of react-music-player
 
 ## Available Scripts
 
